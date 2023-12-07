@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/javiagu13/SMC-Annotator/tree/main/frontend/assets/icon.png">
+  <img src="https://github.com/javiagu13/SMC-Annotator/blob/main/frontend/assets/icon.png">
 </div>
 
 # SMC Annotator
