@@ -91,3 +91,7 @@ Look for CSRF trusted origins and add the frontend and backend IPs to allow it.
 ## Documentation
 This tool has been built on top of the open source software doccano. For further documentation please visit:
 <https://doccano.github.io/doccano/>.
+
+<div align="center" style="background-color:black;">
+    Written by Javier Aguirre - Samsung Medical Center - Smart Health lab - 2023-12-07
+</div>
