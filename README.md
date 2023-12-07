@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="height:150px; width=200px">
   <img src="https://github.com/javiagu13/SMC-Annotator/blob/main/frontend/assets/icon.png">
 </div>
 
